@@ -1,0 +1,11 @@
+Package: THOM08084793
+Type: Package
+Title: Math 4753 Stuff 
+Version: 0.1.0
+Author: Liam Thompson 
+Maintainer: Liam Thompson <liam.c.thompson-1@ou.edu> 
+Description: Spring 2023 fun stuff.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
